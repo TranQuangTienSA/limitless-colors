@@ -1,0 +1,25 @@
+{
+  "name": "limitless-colors",
+  "homepage": "https://github.com/tientq/limitless-colors",
+  "authors": [
+    "Quang Tien <tientq@dkt.com.vn>"
+  ],
+  "description": "Colors for Limitless - Responsive Web Application Kit",
+  "main": "dist/css/colors.min.css",
+  "keywords": [
+    "limitless",
+    "dms",
+    "colors"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "limitless-responsive-web-application-kit": "1.4"
+  }
+}
